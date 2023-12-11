@@ -9,13 +9,9 @@ username: Evridiki Kourachani
 user_description: I'm an Aspiring Data Scientist from Athens,Greece always searching for the next challenge. 
 user_title: Data Scientist
 email: euridikh.96@gmail.com
-instagram_username: mauriciourraco7
-facebook_username: mauricio.urraco
 linkedin_username: evridiki-kourachani
-github_username:  murraco
-# medium_username: lorem_ipsum
-# medium_url: lorem_ipsum.medium.com
-# gplus_username:  lorem_ipsum
+github_username:  evrikou
+
 
 exclude: ['package.json', 'src', 'node_modules', 'vendor']
 
